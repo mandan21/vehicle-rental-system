@@ -40,7 +40,7 @@ public class Constant {
         user2.setFirstName("Lerato");
         user2.setLastName("Moyana");
         user2.setDateOfBirth(LocalDate.of(1985, 6, 15));
-        user2.setRsaId("85615543210987");
+        user2.setRsaId("85061554321098");
         users.add(user4);
 
         User user5 = new User();
